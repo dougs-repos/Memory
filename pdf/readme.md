@@ -1,1 +1,1 @@
-Please see the readme.md in the main folder.
+Please see the readme.md in the parent folder of Memory.
